@@ -76,7 +76,7 @@ class _ProfilePageState extends State<ProfilePage> {
                   
                 },
               ),
-          
+              const Divider( indent: 20, endIndent: 20,),
             ],
           ),
         ),
